@@ -69,7 +69,7 @@ const Navbar = () => {
       <div className="nav__right">
         <div className={`nav__menu${showSideNav ? " show__nav-menu" : ""}`}>
           <ul className="nav__links">
-            <Link to="/">
+            <Link to="/coding-jutsu">
               <li
                 className={`nav__link ${
                   location.pathname === "/" ? "active__link" : ""
