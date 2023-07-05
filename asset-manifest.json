@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coding-jutsu/static/css/main.f6d2f886.css",
-    "main.js": "/coding-jutsu/static/js/main.6a990db5.js",
+    "main.js": "/coding-jutsu/static/js/main.d2efd7ed.js",
     "static/media/illustrable.gif": "/coding-jutsu/static/media/illustrable.f4ad78b03edcef1201f7.gif",
     "static/media/home__img.png": "/coding-jutsu/static/media/home__img.a080ecd1a117e1e75070.png",
     "static/media/me.jpeg": "/coding-jutsu/static/media/me.b12752cf510fab6d7eec.jpeg",
@@ -18,10 +18,10 @@
     "static/media/eye.svg": "/coding-jutsu/static/media/eye.f571f1319aab32d160aa7a7d86a5cbc2.svg",
     "static/media/search-icon.svg": "/coding-jutsu/static/media/search-icon.f646afcaa121a7b8d388826e30f410c1.svg",
     "main.f6d2f886.css.map": "/coding-jutsu/static/css/main.f6d2f886.css.map",
-    "main.6a990db5.js.map": "/coding-jutsu/static/js/main.6a990db5.js.map"
+    "main.d2efd7ed.js.map": "/coding-jutsu/static/js/main.d2efd7ed.js.map"
   },
   "entrypoints": [
     "static/css/main.f6d2f886.css",
-    "static/js/main.6a990db5.js"
+    "static/js/main.d2efd7ed.js"
   ]
 }
