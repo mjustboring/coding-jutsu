@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/coding-jutsu/static/css/main.5228fc51.css",
-    "main.js": "/coding-jutsu/static/js/main.9ca8f15e.js",
+    "main.css": "/coding-jutsu/static/css/main.f6d2f886.css",
+    "main.js": "/coding-jutsu/static/js/main.6a990db5.js",
     "static/media/illustrable.gif": "/coding-jutsu/static/media/illustrable.f4ad78b03edcef1201f7.gif",
     "static/media/home__img.png": "/coding-jutsu/static/media/home__img.a080ecd1a117e1e75070.png",
     "static/media/me.jpeg": "/coding-jutsu/static/media/me.b12752cf510fab6d7eec.jpeg",
+    "static/media/classificationofDataStructure.jpg": "/coding-jutsu/static/media/classificationofDataStructure.a0a6ed2f7883164b1c2a.jpg",
     "static/media/logo_bw.png": "/coding-jutsu/static/media/logo_bw.955cf93bcbc43c4952e4.png",
     "static/media/like.png": "/coding-jutsu/static/media/like.3e18b1593d053260c22f.png",
     "static/media/like_filled.png": "/coding-jutsu/static/media/like_filled.9212ceea92e140241051.png",
+    "static/media/comment.svg": "/coding-jutsu/static/media/comment.bb564a7dbab2fd8169da88364e7d64e0.svg",
+    "static/media/like.svg": "/coding-jutsu/static/media/like.a65b0aa911b3addfeff911151ae2fafe.svg",
+    "static/media/user-circle.svg": "/coding-jutsu/static/media/user-circle.04e23e1141a0ecb878fd8263d78a1a20.svg",
     "index.html": "/coding-jutsu/index.html",
     "static/media/clipboard.svg": "/coding-jutsu/static/media/clipboard.e6538098f0399e8a22cb679cee2fe8b7.svg",
     "static/media/info.svg": "/coding-jutsu/static/media/info.e1c3439e02e24d8ad75a86d8ffac9046.svg",
+    "static/media/eye.svg": "/coding-jutsu/static/media/eye.f571f1319aab32d160aa7a7d86a5cbc2.svg",
     "static/media/search-icon.svg": "/coding-jutsu/static/media/search-icon.f646afcaa121a7b8d388826e30f410c1.svg",
-    "main.5228fc51.css.map": "/coding-jutsu/static/css/main.5228fc51.css.map",
-    "main.9ca8f15e.js.map": "/coding-jutsu/static/js/main.9ca8f15e.js.map"
+    "main.f6d2f886.css.map": "/coding-jutsu/static/css/main.f6d2f886.css.map",
+    "main.6a990db5.js.map": "/coding-jutsu/static/js/main.6a990db5.js.map"
   },
   "entrypoints": [
-    "static/css/main.5228fc51.css",
-    "static/js/main.9ca8f15e.js"
+    "static/css/main.f6d2f886.css",
+    "static/js/main.6a990db5.js"
   ]
 }
