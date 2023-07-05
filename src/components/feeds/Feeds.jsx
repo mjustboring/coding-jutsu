@@ -21,7 +21,7 @@ const Feeds = () => {
   const uploadPost = ()=>{
       const post = {
         id:8,
-        user_name:"Govind Sharma",
+        user_name:"Surat Prakash Maurya",
         user_profile: {MyImage},
         post_desc : refPostContent.current.value,
         post_img: URL.createObjectURL(selectedImage) ,
